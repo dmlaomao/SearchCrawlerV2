@@ -1,3 +1,4 @@
+package spider;
 
 public class Paser implements Runnable {
 

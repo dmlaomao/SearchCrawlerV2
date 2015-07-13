@@ -1,3 +1,5 @@
+package spider;
+
 import java.util.concurrent.Callable;
 import org.apache.http.HttpEntity;
 import org.apache.http.client.methods.CloseableHttpResponse;
